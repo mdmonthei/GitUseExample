@@ -12,11 +12,7 @@ class ViewController: UIViewController {
 
     @IBAction func buttonClicked(_ sender: Any) {
     
-    print ("This is a Git tutorial!")
-        
-    print ("This is a test to show more changes in the app")
-        
-    print ("I'm almost done!")
+    print ("You Finished!")
     
     }
     override func viewDidLoad() {
